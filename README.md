@@ -38,13 +38,16 @@ Hardware – PCs, Cyclone II , USB flasher
 Developed by:SWETHA R RegisterNumber:212223040221
 
 
-**RTL realization****Output:**
+**RTL realization**
+
 ![Screenshot 2024-05-07 090802](https://github.com/swetharangan/BOOLEAN_FUNCTION_MINIMIZATION/assets/163235949/0df5ac2a-e9db-498c-ae1f-449030f98d0b)
 
 **TRUTH TABLE**
+
 ![Screenshot 2024-05-07 090911](https://github.com/swetharangan/BOOLEAN_FUNCTION_MINIMIZATION/assets/163235949/4e85db01-0d3a-43b2-97a6-0b8d7cce6687)
 
 **Timing Diagram**
+
 ![Screenshot 2024-05-07 091004](https://github.com/swetharangan/BOOLEAN_FUNCTION_MINIMIZATION/assets/163235949/506e8338-29dd-431f-922c-9890ea235f26)
 
 
